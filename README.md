@@ -14,3 +14,4 @@ seven
 new feature
 first feature
 second feature
+third feature
